@@ -1,6 +1,8 @@
 # Python Todo-cli 
 a sample cli python3 app using [peewee-orm](http://docs.peewee-orm.com/) with sqlite database and [preetytable](https://pypi.org/project/PrettyTable/)
 
+![screenshot](https://raw.githubusercontent.com/ajikamaludin/todo-cli/master/todo-cli.png)
+
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
